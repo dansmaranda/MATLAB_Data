@@ -3,4 +3,4 @@ GitHub repository for the MATLAB session. Inside you will find the .xls file req
 solutions for all the Tutorials as main .m files with the required funcions in each directory.
 
 
-The full course content (introductory sessions along with the problem sets) is in §MatlabCourse.pdf
+The full course content (introductory sessions along with the problem sets) is in MatlabCourse.pdf
